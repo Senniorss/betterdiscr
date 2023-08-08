@@ -1,0 +1,69 @@
+/**
+ * @name gojo satoru
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=REM:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/KHTQr1s.gif');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://imgs.search.brave.com/GSFCgoGshImfDpgfMXydbcoUHg9tPuDHQQLnY6zkcGs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TEdDUzhVMGZURmtB/QUFBTS9nb2pvLXNh/dG9ydS1qamsuZ2lm.gif');
+  --popout-image-blur: 3px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://media.discordapp.net/attachments/972488991804899369/1135943197810503840/A4559493-450B-4FDD-9A66-D6114D7538AB.gif');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/972488991804899369/1111842364600881183/a_e98e86c3f8ef5bfb1d8b44d6bbdca986.gif');
+  --home-button-size: 200%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.74;
+  --left-brightness: 0.74;
+  --middle-brightness: 0.82;
+  --right-brightness: 0;
+  --overlay-brightness: 0.46;
+  --gradient-primary: 35,16,162;
+  --gradient-secondary: 0,102,148;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgb(118,237,252,1);
+  --gradient-direction: 196deg;
+  --tint-colour: 135,234,255;
+  --tint-brightness: 0.18;
+  --font: REM;
+  --window-padding: 5px;
+  --window-roundness: 14px;
+  --update-notice-1: none;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00FF8B;
+  --rs-idle-color: #FF9F00;
+  --rs-dnd-color: #FF0000;
+  --rs-offline-color: #424242;
+  --rs-streaming-color: #5306D9;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
